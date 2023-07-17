@@ -1,5 +1,7 @@
-a
-d
-b
-c
+Walk the parrot
+Clean the bathroom
+Shower
+Buy groceries
 Master Python
+Change the baby
+Shovel the driveway
