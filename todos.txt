@@ -1,7 +1,6 @@
 Walk the parrot
 Clean the bathroom
 Shower
-Buy groceries
-Master Python
-Change the baby
 Shovel the driveway
+Sweep the floor
+Clean the code
